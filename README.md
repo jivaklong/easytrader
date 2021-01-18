@@ -1,5 +1,55 @@
 # easytrader
+安装教程：
+一、官网下载python
 
+       官网地址：https://www.python.org/downloads/windows/
+
+       python版本：python-3.7.3-amd64
+
+二、安装python
+
+        网上有教程，这个不累述了。
+
+        记得建好环境变量。
+
+三、检查python安装是否成功
+
+        1、cmd
+
+        2、pip list
+
+        3、python
+
+        4、print('hello python')
+
+四、python正常后，安装EasyTrader需要的包
+
+         1、cmd
+
+         2、pip install pypiwin32
+
+         3、pip install pywinauto
+
+         4、pip install numpy
+
+         5、pip install pandas
+
+         6、pip install scikit-learn
+
+         7、pip install pillow
+
+         8、pip install scipy
+
+         8、pip install pytesseract
+
+五、以上包都安装成功后，安装EasyTrader
+
+         9、pip install easytrader
+
+六、修改自己证券账户的地址
+
+       Python37\Lib\site-packages\easytrader\config\client.py
+       
 [![Package](https://img.shields.io/pypi/v/easytrader.svg)](https://pypi.python.org/pypi/easytrader)
 [![Travis](https://img.shields.io/travis/shidenggui/easytrader.svg)](https://travis-ci.org/shidenggui/easytrader)
 [![License](https://img.shields.io/github/license/shidenggui/easytrader.svg)](https://github.com/shidenggui/easytrader/blob/master/LICENSE)
