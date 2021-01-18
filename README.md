@@ -1,5 +1,6 @@
 # easytrader
 安装教程：
+
 一、官网下载python
 
        官网地址：https://www.python.org/downloads/windows/
@@ -67,10 +68,6 @@
 ### 微信群以及公众号
 
 欢迎大家扫码关注公众号「食灯鬼」，一起交流。进群可通过菜单加我好友，备注量化。
-
-![公众号二维码](https://gitee.com/shidenggui/assets/raw/master/uPic/mp-qr.png)
-
-若二维码因 Github 网络无法打开，请点击[公众号二维码](https://gitee.com/shidenggui/assets/raw/master/uPic/mp-qr.png)直接打开图片。
 
 ### Author
 
